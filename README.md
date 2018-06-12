@@ -1,3 +1,11 @@
+<h1>Chuck Norris Jokes </h1>
+
+<p>This was a small project I made with React. I wanted to get a bit more comfortable with using props, and manipulating
+  state before I moved on to learning Redux, Raact Router...etc. <p>
+
+<p> This project was made with the help of the Chuck Norris API, https://github.com/chucknorris-io/chuck-api <p>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
