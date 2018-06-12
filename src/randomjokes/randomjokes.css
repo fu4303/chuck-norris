@@ -1,0 +1,31 @@
+.maindiv:hover{
+    box-shadow: .9em .7em .9em #303030;  
+}
+
+@media only screen and (max-width: 600px) {
+    .maindiv{
+        margin: 0 auto;
+        width: 70%;
+        padding: .8em;
+        border: .2em solid #b22c3e;
+        border-radius: .25em;
+        box-shadow: .4em .3em .3em #303030; 
+        font-family: 'Permanent Marker', cursive;
+        font-size: 1.3em;
+        text-align: center;
+    }
+}
+
+@media only screen and (min-width: 601px) {
+    .maindiv{
+        margin: 0 auto;
+        width: 70%;
+        padding: 1em;
+        border: .2em solid #b22c3e;
+        border-radius: .25em;
+        box-shadow: .4em .3em .3em #303030; 
+        font-family: 'Permanent Marker', cursive;
+        font-size: 1.8em;
+        text-align: center;
+    }
+}
