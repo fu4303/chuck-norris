@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './newjoke.css';
 
 const NewJoke = (props) => {
