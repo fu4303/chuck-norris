@@ -26,7 +26,7 @@ class App extends Component {
     console.log(data);
     this.setState({
       joke: data.value,
-      img: data. icon_url
+      img: data.icon_url
     })
   }
 
