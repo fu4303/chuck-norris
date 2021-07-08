@@ -4,7 +4,7 @@ const Footer = (props) =>{
 
     return(
         <div className = "footer">
-            <div className = 'footimg'><img src = {props.chuck3} /></div>
+            <div className = 'footimg'><img src = {'props.chuck3'} /></div>
             <div><p>some jokes may contain explicit language</p></div>
         </div>
     )
