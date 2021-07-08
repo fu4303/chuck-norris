@@ -35,7 +35,7 @@ class App extends Component {
       <div>
         <div className="App">
           <header>
-            <h1>Chuck Norris Jokes <img src={this.state.img} /></h1>
+            <h1>Chuck Norris Jokes <img src={'this.state.img'} /></h1>
           </header>
         </div>
         <RandomJokes joke={this.state.joke}/>
